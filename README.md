@@ -17,6 +17,8 @@ Environment: VScode
 
 ## HOW IT'S MADE  
 
+## MULTIPLE LINEAR REGRESSION MODEL  
+### METHOD 
 
  ## PROJECT STRUCTURE      
 [Multiple Linear-Regression](https://github.com/leta199/Multiple-Linear-Regression)  
