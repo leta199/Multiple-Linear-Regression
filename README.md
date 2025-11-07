@@ -22,7 +22,11 @@ Environment: VScode
 
 ### COMPARISON TO SCIKIT-LEARN
 
- ## PROJECT STRUCTURE      
+## FINANCE APPLICATION 
+
+## FINAL INSIGHTS 
+
+## PROJECT STRUCTURE      
 [Multiple Linear-Regression](https://github.com/leta199/Multiple-Linear-Regression)  
 ├──[application](https://github.com/leta199/Multiple-Linear-Regression/tree/main/application)   
 │  
