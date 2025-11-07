@@ -14,12 +14,10 @@ Environment: VScode
 
 
  ## PROJECT STRUCTURE      
-[Multiple Linear-Regression](https://github.com/leta199/Linear-Regression)  
-├──[Finance application](https://github.com/leta199/Linear-Regression/tree/main/finance_application)  
-│  ├──[Linear Regression Finance Application](https://github.com/leta199/Linear-Regression/blob/main/finance_application/Linear_Regression_Finance.ipynb)   
-│  └──[Finance data](https://github.com/leta199/Linear-Regression/blob/main/finance_application/finance_data.csv)  
+[Multiple Linear-Regression](https://github.com/leta199/Multiple-Linear-Regression)  
+├──[application](https://github.com/leta199/Multiple-Linear-Regression/tree/main/application)   
 │  
-├──[model](https://github.com/leta199/Linear-Regression/tree/main/model)  
+├──[model](https://github.com/leta199/Multiple-Linear-Regression/tree/main/model)  
 │  ├──[Linear regression.py](https://github.com/leta199/Linear-Regression/blob/main/model/LinearRegression.py)      
 │  └──[Linear Regression (core model)](https://github.com/leta199/Linear-Regression/blob/main/model/Linear_Regression.ipynb)      
 │  └──[Mathematical logic](https://github.com/leta199/Linear-Regression/blob/main/model/Mathematical%20logic.pdf)      
