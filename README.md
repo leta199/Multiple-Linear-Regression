@@ -1,7 +1,8 @@
 # Multiple-Linear-Regression
-Predicting a continuous variable with multiple predictor variables. This serves as an extension to my linear regression with more predictives to improve predictive accuracy. Added functionality with NumPy vectorisation as well including regularisation and normalisation.
+Predicting a continuous variable with multiple predictor variables. This serves as an extension to my linear regression with more predictives to improve predictive accuracy.
+The model will implement gradient descent numerical optimisation across multiple predictors.  There will be fun features added to improve overall model performance such as normalisation, regularisation and criss validation
 
-This notebook will cover 
+This notebook will cover: 
 
 ## HOW IT'S MADE 
 
