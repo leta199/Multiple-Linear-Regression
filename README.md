@@ -1,7 +1,7 @@
 # Multiple-Linear-Regression
-Extending my linear regression model to multiple predictors. Added functionality with NumPy vectorisation as well including regularisation and normalisation.
+Predicting a continuous variable with multiple predictor variables. This serves as an extension to my linear regression with more predictives to improve predictive accuracy. Added functionality with NumPy vectorisation as well including regularisation and normalisation.
 
-This notebook 
+This notebook will cover 
 
 ## HOW IT'S MADE 
 
