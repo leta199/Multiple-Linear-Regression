@@ -11,3 +11,6 @@ Environment: VScode
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-In%20progress-yellow)
+
+## AUTHORS 
+[leta199](https://github.com/leta199)
