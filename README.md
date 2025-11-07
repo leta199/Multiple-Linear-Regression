@@ -15,6 +15,8 @@ Environment: VScode
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-In%20progress-yellow)
 
+## HOW IT'S MADE  
+
 
  ## PROJECT STRUCTURE      
 [Multiple Linear-Regression](https://github.com/leta199/Multiple-Linear-Regression)  
