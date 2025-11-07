@@ -20,6 +20,8 @@ Environment: VScode
 ## MULTIPLE LINEAR REGRESSION MODEL  
 ### METHOD 
 
+### COMPARISON TO SCIKIT-LEARN
+
  ## PROJECT STRUCTURE      
 [Multiple Linear-Regression](https://github.com/leta199/Multiple-Linear-Regression)  
 ├──[application](https://github.com/leta199/Multiple-Linear-Regression/tree/main/application)   
