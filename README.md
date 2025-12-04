@@ -27,15 +27,15 @@ Environment: VScode
 ## FINAL INSIGHTS 
 
 ## PROJECT STRUCTURE      
-[Multiple Linear-Regression](https://github.com/leta199/Multiple-Linear-Regression)  
-├──[application](https://github.com/leta199/Multiple-Linear-Regression/tree/main/application)   
-│  
-├──[model](https://github.com/leta199/Multiple-Linear-Regression/tree/main/model)    
-│  
-├──[data](https://github.com/leta199/Linear-Regression/tree/main/data)    
-│  
-├──[License](https://github.com/leta199/Linear-Regression/blob/main/LICENSE)  
-└──[README](https://github.com/leta199/Linear-Regression/blob/main/README.md)
+|[Multiple Linear-Regression](https://github.com/leta199/Multiple-Linear-Regression)  
+|├──[application](https://github.com/leta199/Multiple-Linear-Regression/tree/main/application)   
+|│  
+├|──[model](https://github.com/leta199/Multiple-Linear-Regression/tree/main/model)    
+|│  
+|├──[data](https://github.com/leta199/Linear-Regression/tree/main/data)    
+|│  
+|├──[License](https://github.com/leta199/Linear-Regression/blob/main/LICENSE)  
+|└──[README](https://github.com/leta199/Linear-Regression/blob/main/README.md)
 
 ## AUTHORS 
 [leta199](https://github.com/leta199)
