@@ -31,7 +31,7 @@ Environment: VScode
 |├──[application](https://github.com/leta199/Multiple-Linear-Regression/tree/main/application)     
 ││    
 ||──[model](https://github.com/leta199/Multiple-Linear-Regression/tree/main/model)      
-│|   
+││   
 |├──[data](https://github.com/leta199/Linear-Regression/tree/main/data)        
 │|   
 |├──[License](https://github.com/leta199/Linear-Regression/blob/main/LICENSE)      
