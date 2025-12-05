@@ -29,7 +29,7 @@ Environment: VScode
 ## PROJECT STRUCTURE      
 |[Multiple Linear-Regression](https://github.com/leta199/Multiple-Linear-Regression)    
 |├──[application](https://github.com/leta199/Multiple-Linear-Regression/tree/main/application)     
-│|    
+││    
 ||──[model](https://github.com/leta199/Multiple-Linear-Regression/tree/main/model)      
 │|   
 |├──[data](https://github.com/leta199/Linear-Regression/tree/main/data)        
