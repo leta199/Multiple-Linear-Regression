@@ -1,5 +1,5 @@
 # Multiple-Linear-Regression
-Predicting a continuous variable with multiple predictor variables. This serves as an extension to my [linear regression model](https://github.com/leta199/Linear-Regression) with more predictives to improve predictive accuracy.
+Predicting a continuous variable with multiple predictor variables. This serves as an extension to my [linear regression model](https://github.com/leta199/Linear-Regression) with more predictors to improve  key metrics like mean sqauare error and R squared value.
 The model will implement gradient descent numerical optimisation across multiple predictors.  There will be fun features added to improve overall model performance such as normalisation, regularisation and criss validation. 
 
 This notebook will cover: 
